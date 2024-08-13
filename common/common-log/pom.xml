@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+        <parent>
+            <groupId>com.fei.base</groupId>
+            <artifactId>base-parent</artifactId>
+            <version>1.0.0</version>
+        </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>common-log</artifactId>
+    <packaging>jar</packaging>
+    <properties>
+        <log4j2.version>2.16.0</log4j2.version>
+        <logback.version>1.2.11</logback.version>
+    </properties>
+    <dependencies>
+        <dependency>
+            <groupId>com.fei.base</groupId>
+            <artifactId>common-utils</artifactId>
+            <version>${base.common.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.fei.base</groupId>
+            <artifactId>common-apollo</artifactId>
+            <version>${base.common.version}</version>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-autoconfigure</artifactId>
+            <optional>true</optional>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot</artifactId>
+            <optional>true</optional>
+        </dependency>
+        <dependency>
+            <groupId>ch.qos.logback</groupId>
+            <artifactId>logback-classic</artifactId>
+            <optional>true</optional>
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.skywalking</groupId>
+            <artifactId>apm-toolkit-logback-1.x</artifactId>
+            <version>8.0.1</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.logging.log4j</groupId>
+            <artifactId>log4j-api</artifactId>
+            <optional>true</optional>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.logging.log4j</groupId>
+            <artifactId>log4j-core</artifactId>
+            <optional>true</optional>
+        </dependency>
+        <dependency>
+            <artifactId>log4j-to-slf4j</artifactId>
+            <groupId>org.apache.logging.log4j</groupId>
+            <optional>true</optional>
+        </dependency>
+        <dependency>
+            <artifactId>log4j-slf4j-impl</artifactId>
+            <groupId>org.apache.logging.log4j</groupId>
+            <optional>true</optional>
+        </dependency>
+
+    </dependencies>
+
+</project>
