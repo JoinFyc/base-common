@@ -5,12 +5,11 @@
     <parent>
         <groupId>com.fei.base</groupId>
         <artifactId>base-parent</artifactId>
-        <version>1.1.0</version>
+        <version>1.2.0</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <artifactId>common-apollo</artifactId>
-
-
+    <name>Apollo</name>
     <packaging>jar</packaging>
 
     <dependencies>
@@ -19,6 +18,7 @@
             <artifactId>common-utils</artifactId>
             <version>${base.common.version}</version>
         </dependency>
+
         <dependency>
             <groupId>com.ctrip.framework.apollo</groupId>
             <artifactId>apollo-client</artifactId>

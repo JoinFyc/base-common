@@ -5,14 +5,14 @@
     <parent>
         <groupId>com.fei.base</groupId>
         <artifactId>base-parent</artifactId>
-        <version>1.1.0</version>
+        <version>1.2.0</version>
     </parent>
 
     <modelVersion>4.0.0</modelVersion>
-
-
     <artifactId>common-process</artifactId>
     <packaging>jar</packaging>
+    <name>Process</name>
+
     <dependencies>
         <dependency>
             <groupId>com.fei.base</groupId>

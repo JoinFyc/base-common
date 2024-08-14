@@ -5,18 +5,19 @@
     <parent>
         <groupId>com.fei.base</groupId>
         <artifactId>base-parent</artifactId>
-        <version>1.1.0</version>
+        <version>1.2.0</version>
     </parent>
-
 
     <modelVersion>4.0.0</modelVersion>
     <artifactId>common-lock</artifactId>
+    <name>Lock</name>
     <packaging>pom</packaging>
 
     <modules>
         <module>lock-api</module>
         <module>lock-base</module>
     </modules>
+
     <dependencyManagement>
         <dependencies>
             <dependency>

@@ -4,32 +4,12 @@
     <parent>
         <groupId>com.fei.base</groupId>
         <artifactId>base-parent</artifactId>
-        <version>1.1.0</version>
+        <version>1.2.0</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
-
     <artifactId>base-common</artifactId>
-    <version>1.1.0</version>
-
-    <modules>
-        <module>common/base-export</module>
-        <module>common/common-model</module>
-        <module>common/common-utils</module>
-        <module>transaction-framework</module>
-        <module>common/common-apollo</module>
-        <module>common/common-log</module>
-        <!--        <module>common/common-lock</module>-->
-        <module>common/common-process</module>
-        <module>common/common-rpc</module>
-        <module>common/common-sequence</module>
-        <!--                <module>common/common-web</module>-->
-        <module>common/common-lock/lock-api</module>
-        <module>common/common-lock/lock-base</module>
-        <!--        <module>lock-zookeeper</module>-->
-    </modules>
+    <name>Base-Architecture</name>
     <packaging>pom</packaging>
-
-    <name>base-common</name>
 
     <properties>
         <!--        <com.fei.base>http://maven.aikucun.com:8082/nexus</com.fei.base>-->
@@ -44,7 +24,6 @@
         <maven.compiler.target>${global.jdk.version}</maven.compiler.target>
 
         <!--mengxiang 组件 start-->
-        <base.common.version>1.0.0</base.common.version>
         <base.sentinel.version>2.0.0</base.sentinel.version>
         <base.metrics.version>2.0.1</base.metrics.version>
         <xxl-job.version>2.2.0</xxl-job.version>
@@ -72,10 +51,28 @@
         <mockito-all.version>1.10.19</mockito-all.version>
         <junit.version>4.12</junit.version>
 
-<!--        <org.projectlombok.version>1.18.12</org.projectlombok.version>-->
-<!--        <org.projectlombok.version>1.18.20</org.projectlombok.version>-->
+        <!--        <org.projectlombok.version>1.18.12</org.projectlombok.version>-->
+        <!--        <org.projectlombok.version>1.18.20</org.projectlombok.version>-->
         <!--第三方业务组件end-->
     </properties>
+
+    <modules>
+        <module>common/base-export</module>
+        <module>common/common-model</module>
+        <module>common/common-utils</module>
+        <module>transaction-framework</module>
+        <module>common/common-apollo</module>
+        <module>common/common-log</module>
+        <module>common/common-lock</module>
+        <module>common/common-process</module>
+        <module>common/common-rpc</module>
+        <module>common/common-sequence</module>
+        <!--                <module>common/common-web</module>-->
+        <module>common/common-lock/lock-api</module>
+        <module>common/common-lock/lock-base</module>
+        <!--        <module>lock-zookeeper</module>-->
+    </modules>
+
     <dependencyManagement>
         <dependencies>
             <dependency>
