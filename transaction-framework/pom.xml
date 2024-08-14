@@ -92,8 +92,8 @@
             <plugin>
                 <artifactId>maven-compiler-plugin</artifactId>
                 <configuration>
-                    <source>${global.jdk.version}</source>
-                    <target>${global.jdk.version}</target>
+                    <source>${jdk.version}</source>
+                    <target>${jdk.version}</target>
                     <skip>true</skip>
                 </configuration>
             </plugin>

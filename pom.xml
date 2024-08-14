@@ -22,8 +22,8 @@
         <module>common/common-process</module>
         <module>common/common-rpc</module>
         <module>common/common-sequence</module>
-        <module>common/common-lock/lock-api</module>
-        <module>common/common-lock/lock-base</module>
+<!--        <module>common/common-lock/lock-api</module>-->
+<!--        <module>common/common-lock/lock-base</module>-->
     </modules>
 
 </project>
