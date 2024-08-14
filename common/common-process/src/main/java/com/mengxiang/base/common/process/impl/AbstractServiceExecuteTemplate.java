@@ -6,7 +6,6 @@ import com.mengxiang.base.common.process.model.ServiceResult;
 import com.mengxiang.base.common.process.BusinessExecuteEngine;
 import com.mengxiang.base.common.process.model.BusinessContext;
 import com.mengxiang.base.common.process.model.BusinessModel;
-import jdk.nashorn.internal.ir.annotations.Ignore;
 
 /**
  * 抽象的服务执行模板

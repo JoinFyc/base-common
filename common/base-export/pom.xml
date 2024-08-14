@@ -7,14 +7,14 @@
     <parent>
         <groupId>com.fei.base</groupId>
         <artifactId>base-parent</artifactId>
-        <version>1.0.0</version>
+        <version>1.1.0</version>
     </parent>
 
     <artifactId>base-export</artifactId>
 
     <properties>
-        <maven.compiler.source>1.8</maven.compiler.source>
-        <maven.compiler.target>1.8</maven.compiler.target>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <poi.version>4.1.2</poi.version>
         <easyexcel.version>3.0.5</easyexcel.version>

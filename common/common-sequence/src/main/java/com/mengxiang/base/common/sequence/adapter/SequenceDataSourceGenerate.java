@@ -21,7 +21,7 @@ public class SequenceDataSourceGenerate {
         if (dataSource == null) {
             return null;
         }
-        DataSourceResolver dataSourceResolver = W.get(dataSource.getClass().getName());
+        DataSourceResolver dataSourceResolver = dataSourceResolverMap.get(dataSource.getClass().getName());
         //假如无法另起一个连接，直接返回原始data source
         if (dataSourceResolver == null) {
             return dataSource;

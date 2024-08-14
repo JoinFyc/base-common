@@ -4,12 +4,12 @@
     <parent>
         <groupId>com.fei.base</groupId>
         <artifactId>base-parent</artifactId>
-        <version>1.0.0</version>
+        <version>1.1.0</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>base-common</artifactId>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
 
     <modules>
         <module>common/base-export</module>
@@ -35,7 +35,7 @@
         <!--        <com.fei.base>http://maven.aikucun.com:8082/nexus</com.fei.base>-->
         <com.fei.base>http://maven.aikucun.com:8082/nexus</com.fei.base>
         <global.encoding>UTF-8</global.encoding>
-        <global.jdk.version>1.8</global.jdk.version>
+        <global.jdk.version>17</global.jdk.version>
         <maven-compiler-plugin.version>3.5.1</maven-compiler-plugin.version>
         <maven-source-plugin.version>3.0.0</maven-source-plugin.version>
         <maven-javadoc-plugin.version>2.9.1</maven-javadoc-plugin.version>
@@ -72,7 +72,8 @@
         <mockito-all.version>1.10.19</mockito-all.version>
         <junit.version>4.12</junit.version>
 
-        <org.projectlombok.version>1.18.12</org.projectlombok.version>
+<!--        <org.projectlombok.version>1.18.12</org.projectlombok.version>-->
+<!--        <org.projectlombok.version>1.18.20</org.projectlombok.version>-->
         <!--第三方业务组件end-->
     </properties>
     <dependencyManagement>
@@ -297,9 +298,9 @@
             <!--  lombok end -->
 
             <dependency>
-                <groupId>javax.servlet</groupId>
-                <artifactId>servlet-api</artifactId>
-                <version>2.5</version>
+                <groupId>jakarta.servlet</groupId>
+                <artifactId>jakarta.servlet-api</artifactId>
+                <version>6.1.0</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
