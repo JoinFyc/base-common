@@ -1,0 +1,6 @@
+org.springframework.context.ApplicationContextInitializer=\
+com.mengxiang.base.common.apollo.client.spring.BaseApolloInitializer
+
+# Auto Configure
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.mengxiang.base.common.apollo.client.springboot.ApolloSpringBootConfiguration
