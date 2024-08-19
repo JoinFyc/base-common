@@ -1,8 +1,8 @@
 package com.mengxiang.base.common.log.spring;
 
-import com.mengxiang.base.common.apollo.client.listener.BaseApolloConfigChange;
-import com.mengxiang.base.common.apollo.client.listener.BaseApolloConfigChangeEvent;
-import com.mengxiang.base.common.apollo.client.listener.BaseApolloConfigListener;
+import com.fei.base.common.apollo.client.listener.BaseApolloConfigChange;
+import com.fei.base.common.apollo.client.listener.BaseApolloConfigChangeEvent;
+import com.fei.base.common.apollo.client.listener.BaseApolloConfigListener;
 import com.mengxiang.base.common.log.ILoggerInitializer;
 import com.mengxiang.base.common.log.LoggerInitializerFactory;
 import com.mengxiang.base.common.log.LoggingConfig;

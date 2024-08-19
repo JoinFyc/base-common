@@ -1,4 +1,4 @@
-package com.mengxiang.base.common.apollo.client;
+package com.fei.base.common.apollo.client;
 
 import com.ctrip.framework.apollo.ConfigFile;
 import com.ctrip.framework.apollo.core.enums.ConfigFileFormat;

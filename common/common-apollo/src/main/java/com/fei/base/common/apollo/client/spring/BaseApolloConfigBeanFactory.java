@@ -1,4 +1,4 @@
-package com.mengxiang.base.common.apollo.client.spring;
+package com.fei.base.common.apollo.client.spring;
 
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.SmartInitializingSingleton;

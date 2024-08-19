@@ -1,7 +1,7 @@
-package com.mengxiang.base.common.apollo.client.spring;
+package com.fei.base.common.apollo.client.spring;
 
 import com.google.common.base.Joiner;
-import com.mengxiang.base.common.apollo.client.listener.BaseApolloConfigListenerRegistry;
+import com.fei.base.common.apollo.client.listener.BaseApolloConfigListenerRegistry;
 import com.ctrip.framework.apollo.Config;
 import com.ctrip.framework.apollo.ConfigService;
 import com.ctrip.framework.apollo.core.ConfigConsts;
@@ -17,7 +17,6 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.core.env.CompositePropertySource;
 import org.springframework.core.env.ConfigurableEnvironment;
-import org.springframework.stereotype.Component;
 
 import java.util.HashSet;
 import java.util.List;

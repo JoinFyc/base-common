@@ -1,4 +1,4 @@
-package com.mengxiang.base.common.apollo.client;
+package com.fei.base.common.apollo.client;
 
 /**
  * 文件类型

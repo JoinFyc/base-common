@@ -1,4 +1,4 @@
-package com.mengxiang.base.common.apollo.client.listener;
+package com.fei.base.common.apollo.client.listener;
 
 /**
  * Apollo配置变更类型

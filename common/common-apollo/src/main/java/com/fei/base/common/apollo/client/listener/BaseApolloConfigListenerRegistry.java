@@ -1,4 +1,4 @@
-package com.mengxiang.base.common.apollo.client.listener;
+package com.fei.base.common.apollo.client.listener;
 
 import com.ctrip.framework.apollo.Config;
 import com.ctrip.framework.apollo.ConfigChangeListener;

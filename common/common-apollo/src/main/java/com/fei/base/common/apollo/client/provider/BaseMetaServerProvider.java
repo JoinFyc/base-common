@@ -1,4 +1,4 @@
-package com.mengxiang.base.common.apollo.client.provider;
+package com.fei.base.common.apollo.client.provider;
 
 import com.ctrip.framework.apollo.core.enums.Env;
 import com.ctrip.framework.apollo.core.spi.MetaServerProvider;

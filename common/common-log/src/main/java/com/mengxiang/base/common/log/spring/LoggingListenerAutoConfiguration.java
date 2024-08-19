@@ -1,7 +1,7 @@
 package com.mengxiang.base.common.log.spring;
 
-import com.mengxiang.base.common.apollo.client.listener.BaseApolloConfigListener;
-import com.mengxiang.base.common.apollo.client.spring.BaseSpringApolloConfigListenerRegistry;
+import com.fei.base.common.apollo.client.listener.BaseApolloConfigListener;
+import com.fei.base.common.apollo.client.spring.BaseSpringApolloConfigListenerRegistry;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnBean;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnClass;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;

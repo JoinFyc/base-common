@@ -1,6 +1,9 @@
-package com.mengxiang.base.common.apollo.client.spring;
+package com.fei.base.common.apollo.client.spring;
 
-import com.mengxiang.base.common.apollo.client.listener.*;
+import com.fei.base.common.apollo.client.listener.BaseApolloConfigChangeEvent;
+import com.fei.base.common.apollo.client.listener.BaseApolloConfigListener;
+import com.fei.base.common.apollo.client.listener.BaseApolloConfigListenerRegistry;
+import com.fei.base.common.apollo.client.listener.*;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.BeansException;
