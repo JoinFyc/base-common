@@ -24,7 +24,7 @@ public class BaseMetaServerProvider implements MetaServerProvider {
     /**
      * 默认apollo地址为DEV环境
      */
-    private static final String DEFAULT_META_URL = "http://apollo.akcdevdev.com:8080";
+    private static final String DEFAULT_META_URL = "http://localhost:8080";
 
     private Map<String, String> metaServers = new HashMap<>();
 
