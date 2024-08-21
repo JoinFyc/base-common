@@ -16,7 +16,6 @@
         <dependency>
             <groupId>com.fei.base</groupId>
             <artifactId>common-utils</artifactId>
-            <version>${base.common.version}</version>
         </dependency>
 
         <dependency>
