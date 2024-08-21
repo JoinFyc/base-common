@@ -13,7 +13,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * 自动配置日志组件
  *
- * @author ice
+ * @author JoinFyc
  * @version 1.0
  * @date 2019/8/15 1:10 PM
  */

@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component;
 /**
  * 初始化组件
  *
- * @author ice
+ * @author JoinFyc
  * @version 1.0
  * @date 2019/4/23 2:53 PM
  */

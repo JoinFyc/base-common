@@ -5,7 +5,7 @@ import lombok.Data;
 /**
  * Apollo配置变更对象
  *
- * @author ice
+ * @author JoinFyc
  * @version 1.0
  * @date 2019/4/22 1:38 PM
  */

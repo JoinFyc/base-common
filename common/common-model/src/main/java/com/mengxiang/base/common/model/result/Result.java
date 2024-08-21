@@ -8,7 +8,7 @@ import java.io.Serializable;
 /**
  * 返回对象统一封包，尽量使用类的静态方法创建对象
  *
- * @author ice
+ * @author JoinFyc
  * @version 1.0
  * @date 2019/5/9 12:13 AM
  */

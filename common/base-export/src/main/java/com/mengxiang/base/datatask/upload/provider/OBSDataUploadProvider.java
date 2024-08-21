@@ -1,9 +1,6 @@
 package com.mengxiang.base.datatask.upload.provider;
 
-//import com.aikucun.common2.base.Result;
 
-import com.alibaba.fastjson.JSON;
-import com.alibaba.fastjson.TypeReference;
 import com.mengxiang.base.datatask.model.UploadResult;
 import com.mengxiang.base.datatask.upload.provider.model.UploadFileRequestDTO;
 import com.mengxiang.base.datatask.util.HttpClient;

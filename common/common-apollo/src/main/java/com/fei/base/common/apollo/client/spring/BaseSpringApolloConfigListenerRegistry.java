@@ -18,7 +18,7 @@ import java.util.Map;
  * Apollo配置变更监听器注册，该类实现spring的{@link ApplicationContextAware}，
  * 会在启动时自动扫描{@link BaseApolloConfigListener}接口的实现bean并进行注册，
  *
- * @author ice
+ * @author JoinFyc
  * @version 1.0
  * @date 2019/4/19 2:52 PM
  */

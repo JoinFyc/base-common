@@ -16,7 +16,7 @@ import java.util.*;
 /**
  * Logback动态Logger的初始化
  *
- * @author ice
+ * @author JoinFyc
  * @version 1.0
  * @date 2019/7/26 5:34 PM
  */

@@ -8,7 +8,7 @@ import java.util.List;
 /**
  * 分页结果对象
  *
- * @author ice
+ * @author JoinFyc
  * @version 1.0
  * @date 2019/5/9 11:15 AM
  */

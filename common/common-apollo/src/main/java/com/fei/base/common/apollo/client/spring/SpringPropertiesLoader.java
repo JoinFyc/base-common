@@ -19,7 +19,7 @@ import java.util.Set;
  * 属性bean加载器，当收到配置发生变化的通知时，
  * 重新加载通过{@link org.springframework.boot.context.properties.ConfigurationProperties}自动注入的bean
  *
- * @author ice
+ * @author JoinFyc
  * @version 1.0
  * @date 2019/4/23 1:44 PM
  */

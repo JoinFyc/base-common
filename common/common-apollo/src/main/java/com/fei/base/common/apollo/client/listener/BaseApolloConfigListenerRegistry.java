@@ -17,7 +17,7 @@ import java.util.Map;
 /**
  * Apollo配置变化监听器注册对象，该对象为单例
  *
- * @author ice
+ * @author JoinFyc
  * @version 1.0
  * @date 2019/4/22 8:22 PM
  */

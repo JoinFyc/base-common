@@ -14,7 +14,7 @@ import org.springframework.core.env.ConfigurableEnvironment;
 /**
  * Springboot项目启动时，通过该Initializer初始化日志配置
  *
- * @author ice
+ * @author JoinFyc
  * @version 1.0
  * @date 2019/7/23 12:00 AM
  */

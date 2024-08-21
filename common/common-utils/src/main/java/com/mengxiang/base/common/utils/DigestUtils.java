@@ -7,7 +7,7 @@ import java.security.NoSuchAlgorithmException;
 /**
  * 摘要工具类，可以计算MD5、SHA等摘要
  *
- * @author ice
+ * @author JoinFyc
  * @version 1.0
  * @date 2019/4/15 4:12 PM
  */

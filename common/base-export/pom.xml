@@ -20,7 +20,6 @@
         <poi.version>4.1.2</poi.version>
         <easyexcel.version>3.0.5</easyexcel.version>
         <httpclient.version>4.5.13</httpclient.version>
-        <fastjson.version>1.2.78</fastjson.version>
         <commons-io.version>2.11.0</commons-io.version>
     </properties>
 
@@ -125,9 +124,8 @@
         </dependency>
 
         <dependency>
-            <groupId>com.alibaba</groupId>
-            <artifactId>fastjson</artifactId>
-            <version>${fastjson.version}</version>
+            <groupId>com.alibaba.fastjson2</groupId>
+            <artifactId>fastjson2</artifactId>
         </dependency>
 
         <!--

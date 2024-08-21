@@ -9,7 +9,7 @@ import java.util.concurrent.ConcurrentHashMap;
 /**
  * 日志类内容
  *
- * @author ice
+ * @author JoinFyc
  * @version 1.0
  * @date 2019/6/22 8:16 PM
  */

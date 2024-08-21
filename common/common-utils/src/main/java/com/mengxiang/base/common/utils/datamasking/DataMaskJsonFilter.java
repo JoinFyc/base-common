@@ -1,8 +1,8 @@
 package com.mengxiang.base.common.utils.datamasking;
 
 
-import com.alibaba.fastjson.serializer.BeanContext;
-import com.alibaba.fastjson.serializer.ContextValueFilter;
+import com.alibaba.fastjson2.filter.BeanContext;
+import com.alibaba.fastjson2.filter.ContextValueFilter;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.ParameterizedType;

@@ -6,7 +6,7 @@ import org.slf4j.helpers.MessageFormatter;
 /**
  * 日志格式工具类
  *
- * @author ice
+ * @author JoinFyc
  * @version 1.0
  * @date 2019/7/3 8:54 PM
  */

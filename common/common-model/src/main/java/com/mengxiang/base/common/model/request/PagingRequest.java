@@ -3,7 +3,7 @@ package com.mengxiang.base.common.model.request;
 /**
  * 分页请求对象
  *
- * @author ice
+ * @author JoinFyc
  * @version 1.0
  * @date 2019/5/9 11:33 AM
  */

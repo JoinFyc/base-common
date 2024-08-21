@@ -16,7 +16,7 @@ import java.util.Set;
 /**
  * 通过{@link ConfigurationProperties}注入的bean的集合
  *
- * @author ice
+ * @author JoinFyc
  * @version 1.0
  * @date 2019/4/23 2:02 PM
  */

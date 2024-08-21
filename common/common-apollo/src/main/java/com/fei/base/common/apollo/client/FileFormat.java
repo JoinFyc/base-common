@@ -3,7 +3,7 @@ package com.fei.base.common.apollo.client;
 /**
  * 文件类型
  *
- * @author ice
+ * @author JoinFyc
  * @version 1.0
  * @date 2019/4/19 9:49 PM
  */

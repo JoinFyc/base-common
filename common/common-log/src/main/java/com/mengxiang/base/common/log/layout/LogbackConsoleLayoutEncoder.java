@@ -9,7 +9,7 @@ import org.apache.skywalking.apm.toolkit.log.logback.v1.x.TraceIdPatternLogbackL
 /**
  * 自定义Encoder，替换LoggerName
  *
- * @author ice
+ * @author JoinFyc
  * @date 2019/8/12 9:13 PM
  */
 public class LogbackConsoleLayoutEncoder extends PatternLayoutEncoder {

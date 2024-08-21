@@ -190,7 +190,7 @@ package com.mengxiang.base.common.model.exception.constant;
  * C0502 语音提醒服务失败
  * C0503 邮件提醒服务失败
  *
- * @author ice
+ * @author JoinFyc
  * @version 1.0
  * @date 2019/5/9 12:41 AM
  */

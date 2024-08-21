@@ -27,7 +27,7 @@ import java.util.Set;
  * Apollo初始化
  * 扩展Apollo上线文初始化过程，插入特殊的namespace
  *
- * @author ice
+ * @author JoinFyc
  * @version 1.0
  * @date 2019/5/22 1:12 AM
  */

@@ -14,7 +14,7 @@ import java.util.Properties;
 /**
  * 自定义MetaServer地址服务
  *
- * @author ice
+ * @author JoinFyc
  * @version 1.0
  * @date 2019/5/17 4:56 PM
  */

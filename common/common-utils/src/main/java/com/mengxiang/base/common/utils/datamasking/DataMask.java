@@ -1,6 +1,7 @@
 package com.mengxiang.base.common.utils.datamasking;
 
-import com.alibaba.fastjson.JSON;
+
+import com.alibaba.fastjson2.JSON;
 import com.mengxiang.base.common.utils.datamasking.strategy.HashMask;
 
 /**

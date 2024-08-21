@@ -1,7 +1,7 @@
 package com.mengxiang.base.common.log;
 
 /**
- * @author ice
+ * @author JoinFyc
  * @version 1.0
  * @date 2019/7/10 8:55 PM
  */

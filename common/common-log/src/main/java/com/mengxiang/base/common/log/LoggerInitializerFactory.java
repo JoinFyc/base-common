@@ -7,7 +7,7 @@ import org.springframework.util.ClassUtils;
 /**
  * Logger初始化器的工厂类
  *
- * @author ice
+ * @author JoinFyc
  * @version 1.0
  * @date 2019/7/26 5:14 PM
  */

@@ -6,7 +6,7 @@ import com.ctrip.framework.apollo.core.enums.ConfigFileFormat;
 /**
  * 配置文件对象
  *
- * @author ice
+ * @author JoinFyc
  * @version 1.0
  * @date 2019/4/23 9:37 PM
  */

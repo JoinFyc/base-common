@@ -1,6 +1,6 @@
 package com.mengxiang.base.common.sequence.spring;
 
-import com.alibaba.fastjson.JSONObject;
+import com.alibaba.fastjson2.JSONObject;
 import com.mengxiang.base.common.sequence.IGenerator;
 import com.mengxiang.base.common.sequence.adapter.SequenceDataSourceGenerate;
 import com.mengxiang.base.common.sequence.constant.SequenceConstant;

@@ -5,7 +5,7 @@ import com.mengxiang.base.common.model.exception.constant.IErrorCode;
 /**
  * 运行时业务异常，可以不进行catch
  *
- * @author ice
+ * @author JoinFyc
  * @version 1.0
  * @date 2019/5/9 12:34 AM
  */

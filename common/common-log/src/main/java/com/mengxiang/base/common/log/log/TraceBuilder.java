@@ -7,7 +7,7 @@ import java.util.UUID;
 /**
  * Trace构造器
  *
- * @author ice
+ * @author JoinFyc
  * @version 1.0
  * @date 2019/7/26 2:41 PM
  */

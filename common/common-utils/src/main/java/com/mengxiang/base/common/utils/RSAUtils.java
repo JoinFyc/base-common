@@ -19,7 +19,7 @@ import java.util.Base64;
 /**
  * RSA分对称加解密工具类
  *
- * @author ice
+ * @author JoinFyc
  * @version 1.0
  * @date 2019/5/25 2:45 PM
  */

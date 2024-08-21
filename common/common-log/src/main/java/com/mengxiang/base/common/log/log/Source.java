@@ -5,7 +5,7 @@ import java.io.Serializable;
 /**
  * 日志来源
  *
- * @author ice
+ * @author JoinFyc
  * @version 1.0
  * @date 2019/7/25 7:33 PM
  */

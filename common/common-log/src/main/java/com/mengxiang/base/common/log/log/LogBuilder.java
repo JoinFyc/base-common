@@ -1,6 +1,5 @@
 package com.mengxiang.base.common.log.log;
 
-import com.alibaba.fastjson.JSONObject;
 import com.mengxiang.base.common.log.PidUtils;
 import org.apache.commons.lang3.StringUtils;
 import org.slf4j.MDC;
@@ -11,7 +10,7 @@ import java.util.Map;
 /**
  * Log构造器
  *
- * @author ice
+ * @author JoinFyc
  * @version 1.0
  * @date 2019/7/10 9:19 PM
  */

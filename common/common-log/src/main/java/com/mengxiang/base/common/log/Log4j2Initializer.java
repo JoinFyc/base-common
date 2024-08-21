@@ -18,7 +18,7 @@ import org.slf4j.LoggerFactory;
 /**
  * Log4j2动态Logger的初始化
  *
- * @author ice
+ * @author JoinFyc
  * @version 1.0
  * @date 2019/7/19 4:00 PM
  */

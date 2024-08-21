@@ -15,7 +15,7 @@ import java.util.Objects;
 /**
  * 日志组件apollo监听器
  *
- * @author ice
+ * @author JoinFyc
  * @version 1.0
  * @date 2019/8/15 10:41 AM
  */

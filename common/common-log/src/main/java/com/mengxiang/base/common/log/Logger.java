@@ -13,7 +13,7 @@ import java.util.function.Supplier;
 /**
  * 日志组件工具类
  *
- * @author ice
+ * @author JoinFyc
  * @version 1.0
  * @date 2019/7/23 11:08 PM
  */

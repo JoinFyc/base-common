@@ -7,7 +7,7 @@ import java.lang.reflect.Field;
 /**
  * 日志组件配置
  *
- * @author ice
+ * @author JoinFyc
  * @version 1.0
  * @date 2019/8/16 4:40 PM
  */

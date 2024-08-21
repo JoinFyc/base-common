@@ -3,7 +3,7 @@ package com.mengxiang.base.common.log;
 /**
  * 日志类型
  *
- * @author ice
+ * @author JoinFyc
  * @version 1.0
  * @date 2019/6/27 7:15 PM
  */

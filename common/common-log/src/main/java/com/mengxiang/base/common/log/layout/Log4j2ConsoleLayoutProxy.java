@@ -12,7 +12,7 @@ import java.lang.reflect.Proxy;
 /**
  * 控制台Layout的代理类，替换LoggerName
  *
- * @author ice
+ * @author JoinFyc
  * @date 2019/8/12 9:12 PM
  */
 public class Log4j2ConsoleLayoutProxy implements InvocationHandler {

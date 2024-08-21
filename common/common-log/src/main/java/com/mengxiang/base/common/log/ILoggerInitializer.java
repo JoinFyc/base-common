@@ -3,7 +3,7 @@ package com.mengxiang.base.common.log;
 /**
  * 日志配置初始化接口
  *
- * @author ice
+ * @author JoinFyc
  * @version 1.0
  * @date 2019/7/26 5:17 PM
  */

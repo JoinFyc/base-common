@@ -6,7 +6,7 @@ import com.mengxiang.base.common.process.error.ErrorContext;
 /**
  * 业务引擎异常，允许自定义定义错误编码和错误信息
  *
- * @author ice
+ * @author JoinFyc
  * @version 1.0
  * @date 2019/5/9 12:25 AM
  */
