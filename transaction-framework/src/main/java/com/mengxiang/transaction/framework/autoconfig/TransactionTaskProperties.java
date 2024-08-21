@@ -8,7 +8,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
  * @Date 2020年11月10日
  *
  */
-@ConfigurationProperties(prefix = "com.mengxiang.transaction.task")
+@ConfigurationProperties(prefix = "com.fei.base.transaction.task")
 public class TransactionTaskProperties {
 
     private boolean enable                   = false;
