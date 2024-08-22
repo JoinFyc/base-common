@@ -12,10 +12,6 @@
     <artifactId>common-log</artifactId>
     <packaging>jar</packaging>
     <name>Log</name>
-    <properties>
-        <log4j2.version>2.16.0</log4j2.version>
-        <logback.version>1.2.11</logback.version>
-    </properties>
     <dependencies>
         <dependency>
             <groupId>com.fei.base</groupId>
@@ -41,7 +37,19 @@
         <dependency>
             <groupId>ch.qos.logback</groupId>
             <artifactId>logback-classic</artifactId>
+            <exclusions>
+                <exclusion>
+                    <groupId>ch.qos.logback</groupId>
+                    <artifactId>logback-core</artifactId>
+                </exclusion>
+            </exclusions>
             <optional>true</optional>
+        </dependency>
+
+        <dependency>
+            <groupId>ch.qos.logback</groupId>
+            <artifactId>logback-core</artifactId>
+            <version>${logback.replace.version}</version>
         </dependency>
 
         <dependency>
